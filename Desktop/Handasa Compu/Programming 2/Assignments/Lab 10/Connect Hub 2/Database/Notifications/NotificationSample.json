@@ -1,0 +1,8 @@
+[ "java.util.ArrayList", [ {
+  "@class" : "Event.FriendRequestNotification",
+  "notificationId" : 1,
+  "status" : true,
+  "senderId" : 1,
+  "receiverId" : 2,
+  "type" : "FriendRequest"
+} ] ]
